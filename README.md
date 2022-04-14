@@ -1,10 +1,11 @@
 <h1> Proyecto Principal </h1>
+<img src="https://img.shields.io/badge/Estado-Developer-green">
 <p>
-  sdfhdjsahfjsahfd kjldfijsdkfijohn flidjfh
-  idsafhjasdhfiljdsahfjhsadjfh
-  ijdahfjasdhfjiahsdijfhiasdjhfasjdhfsdadshf
+  sadhasjlh ñsdfihfh dsifhasj  SDJFHSAJ
+  SAIDUHASJDH AHFDJASHDJ H AHFIAHFIHA
+  ASHDGASKDDGB LAJDFHJASDHFIJL A LHAF
   <p/>
-  <img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
+<img src="https://miracomosehace.com/wp-content/uploads/2020/07/ilustracion-monitor-con-logo-publisher.jpg" alt="Girl in a jacket" width="500" height="600">
   <p>Final de la imagen </p>
 
   
